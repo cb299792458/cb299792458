@@ -4,7 +4,7 @@
 <div align="center" > <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&background=51FFB700&center=true&vCenter=true&lines=Hello%2C+I+am+Brian+Lam+Full+Stack+Web+Developer" /> </div>
 
 <div align="center"> 
- <h2>A little about me :innocent: : </h2>
+ <h2>A little about me: </h2>
 <li> 🎓 I am a Full Stack Software Engineer </li>
 <li> 💻 I'm currently open for work</li>
 <li> 🔭 I’m currently working on website clones</li>
