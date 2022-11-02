@@ -10,7 +10,7 @@
 <li> 🔭 I’m currently working on website clones</li>
 <li> 🌱 I’m currently learning DS & A</li>
 <li> 👯 I’m looking to collaborate on fullstack projects</li>
-<li> 📫 How to reach me: Email: DLi53@outlook.com 📫 </li>
+<li> 📫 How to reach me: Email: brianrlam@gmail.com 📫 </li>
 </div>
 
 <br>
@@ -45,17 +45,17 @@
 <!-- ![Itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white) -->
 
 <h2 align="center"> :gear: GitHub Stats </h2>
-<p align="center"><img width="65%" src="https://github-readme-streak-stats.herokuapp.com?user=DLi53&theme=cobalt" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=DLi53&theme=default"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLi53&layout=compact" />
+<p align="center"><img width="65%" src="https://github-readme-streak-stats.herokuapp.com?user=cb299792458&theme=cobalt" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cb299792458&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cb299792458&layout=compact" />
 </p>
 
 
 <h2 align="center"> :e-mail: Contact Me <h2>
 <div align="center">
-  <a href = "https://www.linkedin.com/in/DanielLi52/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   <a href = "https://www.angel.co/u/daniel-li-66"><img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"/></a>
- <a href = "mailto: DLi53@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/> </a>
+  <a href = "https://www.linkedin.com/in/brian-lam-962ba833/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+   <a href = "https://angel.co/u/brian-lam-29"><img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"/></a>
+ <a href = "mailto: brianrlam@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/> </a>
 </div>
 <!-- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DLi53@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DanielLi52/) -->
