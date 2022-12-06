@@ -8,7 +8,7 @@
 <li> 🎓 I am a Full Stack Software Engineer </li>
 <li> 💻 I'm currently open for work</li>
 <li> 🔭 I’m currently working on website clones</li>
-<li> 🌱 I’m currently learning DS & A</li>
+<li> 🌱 I’m currently reviewing DS & A</li>
 <li> 👯 I’m looking to collaborate on fullstack projects</li>
 <li> 📫 How to reach me: Email: brianrlam@gmail.com 📫 </li>
 </div>
