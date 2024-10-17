@@ -6,7 +6,7 @@
 <div align="center"> 
  <h2>A little about me: </h2>
 <li> 🎓 I am a Full Stack Software Engineer </li>
-<li> 💻 I'm currently a developer at Couplr AI</li>
+<li> 💻 I'm currently a Software Engineer at Couplr AI</li>
 <li> 🔭 I’m currently learning Java</li>
 <li> 🌱 I’m currently reviewing DS & A</li>
 <li> 👯 I’m looking to collaborate on fullstack projects</li>
